@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimediahealth.github.io/sitemap.xml
